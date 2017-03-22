@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="data-core" />
+        <module name="data-demoService" />
+        <module name="data-page-service" />
+        <module name="data-search" />
+        <module name="data-search-service" />
+        <module name="data-util" />
+        <module name="data-web" />
+        <module name="datacore" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bigdata" target="1.5" />
+      <module name="data-core" target="1.5" />
+      <module name="data-demoService" target="1.5" />
+      <module name="data-mappings-demoservice" target="1.5" />
+      <module name="data-page-service" target="1.5" />
+      <module name="data-search" target="1.5" />
+      <module name="data-search-service" target="1.5" />
+      <module name="data-util" target="1.5" />
+      <module name="data-web" target="1.5" />
+      <module name="datacore" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

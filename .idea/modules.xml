@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bigdata.iml" filepath="$PROJECT_DIR$/bigdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-core/data-core.iml" filepath="$PROJECT_DIR$/data-core/data-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-demoService/data-demoService.iml" filepath="$PROJECT_DIR$/data-demoService/data-demoService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-page-service/data-page-service.iml" filepath="$PROJECT_DIR$/data-page-service/data-page-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-search/data-search.iml" filepath="$PROJECT_DIR$/data-search/data-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-search-service/data-search-service.iml" filepath="$PROJECT_DIR$/data-search-service/data-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-util/data-util.iml" filepath="$PROJECT_DIR$/data-util/data-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-web/data-web.iml" filepath="$PROJECT_DIR$/data-web/data-web.iml" />
+    </modules>
+  </component>
+</project>
