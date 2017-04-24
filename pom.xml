@@ -14,6 +14,7 @@
     <module>data-search-service</module>
     <module>data-page-service</module>
     <module>data-service-publish</module>
+    <module>data-model</module>
 
   </modules>
   <name>bigdata Maven Webapp</name>
