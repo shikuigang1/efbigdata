@@ -4,7 +4,9 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data-core" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data-demoService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-page-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-search-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data-util" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data-web" charset="UTF-8" />
   </component>

@@ -9,8 +9,8 @@
         <module name="data-core" />
         <module name="data-demoService" />
         <module name="data-page-service" />
-        <module name="data-search" />
         <module name="data-search-service" />
+        <module name="data-service-publish" />
         <module name="data-util" />
         <module name="data-web" />
         <module name="datacore" />
@@ -24,6 +24,7 @@
       <module name="data-page-service" target="1.5" />
       <module name="data-search" target="1.5" />
       <module name="data-search-service" target="1.5" />
+      <module name="data-service-publish" target="1.5" />
       <module name="data-util" target="1.5" />
       <module name="data-web" target="1.5" />
       <module name="datacore" target="1.5" />
